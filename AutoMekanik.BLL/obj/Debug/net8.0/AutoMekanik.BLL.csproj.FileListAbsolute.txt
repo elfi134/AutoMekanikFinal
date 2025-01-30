@@ -1,0 +1,17 @@
+C:\Users\elfig\source\repos\AutoMekanik.BLL\bin\Debug\net8.0\AutoMekanik.BLL.deps.json
+C:\Users\elfig\source\repos\AutoMekanik.BLL\bin\Debug\net8.0\AutoMekanik.BLL.dll
+C:\Users\elfig\source\repos\AutoMekanik.BLL\bin\Debug\net8.0\AutoMekanik.BLL.pdb
+C:\Users\elfig\source\repos\AutoMekanik.BLL\bin\Debug\net8.0\AutoMekanik.Domain.dll
+C:\Users\elfig\source\repos\AutoMekanik.BLL\bin\Debug\net8.0\AutoMekanik.Infrastructure.dll
+C:\Users\elfig\source\repos\AutoMekanik.BLL\bin\Debug\net8.0\AutoMekanik.Domain.pdb
+C:\Users\elfig\source\repos\AutoMekanik.BLL\bin\Debug\net8.0\AutoMekanik.Infrastructure.pdb
+C:\Users\elfig\source\repos\AutoMekanik.BLL\obj\Debug\net8.0\AutoMekanik.BLL.csproj.AssemblyReference.cache
+C:\Users\elfig\source\repos\AutoMekanik.BLL\obj\Debug\net8.0\AutoMekanik.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elfig\source\repos\AutoMekanik.BLL\obj\Debug\net8.0\AutoMekanik.BLL.AssemblyInfoInputs.cache
+C:\Users\elfig\source\repos\AutoMekanik.BLL\obj\Debug\net8.0\AutoMekanik.BLL.AssemblyInfo.cs
+C:\Users\elfig\source\repos\AutoMekanik.BLL\obj\Debug\net8.0\AutoMekanik.BLL.csproj.CoreCompileInputs.cache
+C:\Users\elfig\source\repos\AutoMekanik.BLL\obj\Debug\net8.0\AutoMeka.048CB91C.Up2Date
+C:\Users\elfig\source\repos\AutoMekanik.BLL\obj\Debug\net8.0\AutoMekanik.BLL.dll
+C:\Users\elfig\source\repos\AutoMekanik.BLL\obj\Debug\net8.0\refint\AutoMekanik.BLL.dll
+C:\Users\elfig\source\repos\AutoMekanik.BLL\obj\Debug\net8.0\AutoMekanik.BLL.pdb
+C:\Users\elfig\source\repos\AutoMekanik.BLL\obj\Debug\net8.0\ref\AutoMekanik.BLL.dll
